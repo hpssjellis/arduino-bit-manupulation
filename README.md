@@ -5,6 +5,29 @@
 https://github.com/helium/console-decoders
 
 
+## Good ones to decode
+
+Easy:
+https://github.com/helium/console-decoders/blob/master/Wisblock/1906/decoder.js
+
+Good with definitions
+
+https://github.com/helium/console-decoders/blob/master/Ursalink/AM100%20-%20AM102%20Payload%20Decoder/decoder.js
+
+https://github.com/helium/console-decoders/blob/master/StregaTechnologies/DECODER-V3-V4.js
+
+https://github.com/helium/console-decoders/blob/master/SEEED/Seeeduino_LoRaWAN/decoder.js
+
+
+
+
+Advanced:
+
+https://github.com/helium/console-decoders/blob/master/senstick/decoder.js
+
+
+
+
 ## Bitwise Online Calculators
 
 best
