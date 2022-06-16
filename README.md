@@ -1,17 +1,59 @@
 # arduino-bit-manupulation
 
 
+
+## Bitwise Online Calculators
+
+best
+
+https://www.rapidtables.com/convert/number/binary-converter.html
+
+
+https://www.rapidtables.com/calc/math/binary-calculator.html
+
+https://bitwisecmd.com/
+
+https://truthtablemaker.com/    
+
+
+
+https://www.omnicalculator.com/math/twos-complement
+
+https://www.omnicalculator.com/math/xor
+
+
+https://onlinetoolz.net/bitshift#base=8&value=255&bits=8&steps=1&dir=l&type=ari&allsteps=1
+
+https://miniwebtool.com/bitwise-calculator/bit-shift/?data_type=10&number=45&place=4&operator=Shift+Right
+
+https://www.omnicalculator.com/math/bit-shift
+
+https://www.omnicalculator.com/math/bitwise
+
+https://www.omnicalculator.com/math/binary-operations
+
+
+https://www.omnicalculator.com/math/ones-complement
+
+
+https://www.omnicalculator.com/math/binary-subtraction
+
 Just some research before doing some decoder work
 
 ## Javascript Reference
 
+https://www.w3schools.com/js/js_bitwise.asp
 
+https://www.programiz.com/javascript/bitwise-operators
 
 
 
 ## Arduino Refernece
 https://www.arduino.cc/en/Tutorial/Foundations/BitMask
 
+https://www.arduino.cc/reference/tr/language/structure/bitwise-operators/bitshiftleft/
+
+https://www.bluetin.io/robot-control/arduino-port-access-bitwise-op/
 
 
 ```
