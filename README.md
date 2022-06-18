@@ -15,6 +15,23 @@ https://www.rapidtables.com/convert/number/ascii-to-hex.html
 
 https://core-electronics.com.au/guides/encoding-and-decoding-payloads-on-the-things-network/
 
+
+```
+
+// LSB (least significant byte first):
+var temperature = bytes[1]<<8 | bytes[0];
+var pressure = bytes[3]<<8 | bytes[2];
+
+
+
+
+// LSB (least significant byte first) and sign-extension to get 4 bytes 
+// for proper decoding of negative values:
+var temperature = bytes[1]<<24>>16 | bytes[0];
+
+```
+
+
 ## Good ones to decode
 
 Easy:
