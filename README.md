@@ -7,6 +7,10 @@ https://github.com/helium/console-decoders
 
 ## Great Resources
 
+https://github.com/thesolarnomad/lora-serialization
+
+
+
 https://www.thethingsnetwork.org/forum/t/decrypting-messages-for-dummies/4894/4
 
 https://github.com/thesolarnomad/lora-serialization
