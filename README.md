@@ -4,6 +4,7 @@
 
 https://github.com/helium/console-decoders
 
+Made a fork of     https://github.com/hpssjellis/lora-serialization
 
 ## Great Resources
 
