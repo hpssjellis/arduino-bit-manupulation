@@ -86,6 +86,12 @@ LAIRD decoder
 https://github.com/helium/console-decoders/blob/master/Laird/decoder.js
 
 
+## From Alex
+
+https://www.thethingsnetwork.org/docs/devices/bytes/#:~:text=A%20byte%20is%20a%20group,0(00)%20and%20255.
+
+https://www.thethingsindustries.com/docs/integrations/
+
 
 
 
